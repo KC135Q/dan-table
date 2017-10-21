@@ -1,0 +1,25 @@
+{
+  "name": "dan-table",
+  "version": "1.0.0",
+  "description": "Step by step setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KC135Q/dan-table.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KC135Q/dan-table/issues"
+  },
+  "homepage": "https://github.com/KC135Q/dan-table#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
